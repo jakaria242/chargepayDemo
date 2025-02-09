@@ -1,9 +1,9 @@
 import React from 'react'
 
-const HomePage = () => {
+const Home = () => {
   return (
-    <div className='text-5xl'>HomePage</div>
+    <div className='text-5xl'>Welcome to ChargePay</div>
   )
 }
 
-export default HomePage
+export default Home
